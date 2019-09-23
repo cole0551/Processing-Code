@@ -173,4 +173,4 @@ void restart()        //if we press shift then the game is restarted. SHIFT is t
   time=0;
   angle=0;
   redo=true;
-}
+}// cole was here.
